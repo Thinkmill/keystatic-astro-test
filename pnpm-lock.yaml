@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@astrojs/node': ^5.0.3
   '@astrojs/react': ^2.0.2
-  '@keystatic/astro': ^0.0.1
+  '@keystatic/astro': ^0.0.2
   '@keystatic/core': ^0.0.41
   '@types/react': ^18.0.25
   '@types/react-dom': ^18.0.11
@@ -14,7 +14,7 @@ specifiers:
 dependencies:
   '@astrojs/node': 5.0.3_astro@2.0.14
   '@astrojs/react': 2.0.2_3xleytyzprlgycb2ded54tx72i
-  '@keystatic/astro': 0.0.1_z5m2essd43gq2gbswd7mwiyozy
+  '@keystatic/astro': 0.0.2_z5m2essd43gq2gbswd7mwiyozy
   '@keystatic/core': 0.0.41_biqbaboplfbrettd7655fr4n2y
   '@types/react': 18.0.28
   '@types/react-dom': 18.0.11
@@ -832,8 +832,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.14
     dev: false
 
-  /@keystatic/astro/0.0.1_z5m2essd43gq2gbswd7mwiyozy:
-    resolution: {integrity: sha512-X61Yxg6iqe0GmMlmtxBkMp5eBxnXmkNP0YO2d6ppRLF9C6DE6aH7iwY2YLObuGtLuOP4y4psnFF3Ygz8qvSJvw==}
+  /@keystatic/astro/0.0.2_z5m2essd43gq2gbswd7mwiyozy:
+    resolution: {integrity: sha512-NZ+v1dEqTcwsk+n9d+Jml7vtLRSvrPJ19NdPafPCsaODwYMIq2EZ4nnQq0saYoquam+yD8NrDNlwpOFYq/sptg==}
     peerDependencies:
       '@keystatic/core': '*'
       astro: '2'
